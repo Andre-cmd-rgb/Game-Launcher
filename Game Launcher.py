@@ -11,9 +11,9 @@ from tkinter import messagebox
 
 # Constants
 OWNER = "Andre-cmd-rgb"
-REPO = "FlightWarGame"
-ASSET_NAME = "game.zip"
-TARGET_DIR = r"C:\Program Files\Game Launcher\Game"
+REPO = "Game Launcher"
+ASSET_NAME = "FuryOfSnipersRevenge.zip"
+TARGET_DIR = r"C:\Program Files\Game Launcher\Game\FuryOfSnipers"
 
 
 
